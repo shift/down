@@ -10,8 +10,6 @@ It crashed. Took down the process manager. Cascaded into a kernel panic. The ent
 
 ---
 
----
-
-*You've been fired. The startup died. The company lost your data. The pager won.*
+*Scope creep killed you. You've been fired. The startup died. The company lost your data. The pager won.*
 
 [🔄 Try again from the beginning](https://github.com/shift/left)

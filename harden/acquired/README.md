@@ -10,4 +10,5 @@ The acquiring company audits your infrastructure. Their CTO: "Your ops setup is 
 
 - [Deploy under new management](https://github.com/shift/right)
 
-*1 choices. There is no going back.*
+**1 choice — there is no going back.**
+

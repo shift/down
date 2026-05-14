@@ -14,4 +14,5 @@ You could deploy it now. Or wait until Monday when you can monitor the rollout.
 - [Deploy to a canary group of 10 machines first](../harden)
 - [Push it to everyone now — security can't wait](./push)
 
-*3 choices. There is no going back.*
+**3 choices — there is no going back.**
+

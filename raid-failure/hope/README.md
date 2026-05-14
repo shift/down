@@ -11,4 +11,5 @@ You have 12 hours.
 - [Emergency data copy to another server](../../harden)
 - [The drives arrive tomorrow — it'll hold](./click)
 
-*2 choices. There is no going back.*
+**2 choices — there is no going back.**
+

@@ -16,4 +16,5 @@ You are the only person who knows this.
 - [Report it to your manager immediately](../trusted)
 - [Fix it but don't tell anyone](./secret)
 
-*3 choices. There is no going back.*
+**3 choices — there is no going back.**
+

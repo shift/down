@@ -14,4 +14,5 @@ Everyone. Including 12 people who left the company. Including 3 who were fired. 
 - [Clean it up quietly before the report is filed](../harden)
 - [That's an IT problem](./notmyjob)
 
-*3 choices. There is no going back.*
+**3 choices — there is no going back.**
+

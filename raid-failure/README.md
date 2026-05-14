@@ -14,4 +14,5 @@ No replicas. No failover. Only hope and a RAID 5 running in degraded mode.
 - [Order expedited drives and hope](./hope)
 - [Migrate to cloud database — finally](https://github.com/shift/up)
 
-*3 choices. There is no going back.*
+**3 choices — there is no going back.**
+
