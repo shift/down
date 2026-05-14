@@ -8,3 +8,5 @@ Your manager catches you editing your resume during standup. "If you're already 
 
 - [You're right. I'm in.](https://github.com/shift/right)
 - [Nah, I'm out.](./quitter)
+
+*2 choices. There is no going back.*

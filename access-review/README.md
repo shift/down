@@ -13,3 +13,5 @@ Everyone. Including 12 people who left the company. Including 3 who were fired. 
 - [Revoke all access, re-issue to current team only](../harden)
 - [Clean it up quietly before the report is filed](../harden)
 - [That's an IT problem](./notmyjob)
+
+*3 choices. There is no going back.*

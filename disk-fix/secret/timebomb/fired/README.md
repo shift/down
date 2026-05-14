@@ -8,4 +8,8 @@ They didn't fire you for the bug. They fired you for the silence.
 
 ---
 
+---
+
+*You've been fired. The startup died. The company lost your data. The pager won.*
+
 [🔄 Try again from the beginning](https://github.com/shift/left)

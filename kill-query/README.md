@@ -13,3 +13,5 @@ Thursday 2am: same intern. Same 14-table join. This time the database runs out o
 - [Fix it properly this time](../trusted)
 - [Disable the intern's database access](../trusted)
 - [Wake up the senior engineer](./senior)
+
+*3 choices. There is no going back.*

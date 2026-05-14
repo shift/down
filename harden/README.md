@@ -17,3 +17,5 @@ Slack is on fire.
 - [Your work made this possible — celebrate](./acquired)
 - [Acquisitions mean layoffs — stay cautious](./acquired)
 - [Update your resume immediately](./resume)
+
+*3 choices. There is no going back.*

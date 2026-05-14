@@ -13,3 +13,5 @@ Also: the monitoring system is out of disk space too. It can't alert about itsel
 - [Add disk space and optimize the query](./disk-fix)
 - [Kill the query and go back to sleep](./kill-query)
 - [Rewrite the monitoring system at 3am](./rewrite-monitor)
+
+*3 choices. There is no going back.*

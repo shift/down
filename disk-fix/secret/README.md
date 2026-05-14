@@ -14,3 +14,5 @@ But secrets don't stay secret. Logs exist. Someone will audit the backup history
 
 - [Tell your manager before anyone finds out](../../trusted)
 - [It's fixed now. Move on.](./timebomb)
+
+*2 choices. There is no going back.*

@@ -8,4 +8,8 @@ The third drive died at 4am. 8 months of data gone.
 
 ---
 
+---
+
+*You've been fired. The startup died. The company lost your data. The pager won.*
+
 [🔄 Try again from the beginning](https://github.com/shift/left)

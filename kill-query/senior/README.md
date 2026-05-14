@@ -10,3 +10,5 @@ Then: "Also, the intern needs a talking to."
 
 - [Shadow the senior engineer](../../harden)
 - [Back to dev — enough ops](https://github.com/shift/left/tree/main/cicd)
+
+*2 choices. There is no going back.*

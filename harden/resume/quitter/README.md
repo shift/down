@@ -8,4 +8,8 @@ You quit during the acquisition. Your equity was about to vest. The acquiring co
 
 ---
 
+---
+
+*You've been fired. The startup died. The company lost your data. The pager won.*
+
 [🔄 Try again from the beginning](https://github.com/shift/left)

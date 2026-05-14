@@ -13,3 +13,5 @@ If it expires, every user sees "This site is not secure." Checkout breaks. Reven
 - [Call Greg. Now.](../harden)
 - [Switch to Let's Encrypt — automated renewals](../harden)
 - [It renews Monday — it'll be fine](./expired)
+
+*3 choices. There is no going back.*

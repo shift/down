@@ -15,3 +15,5 @@ You are the only person who knows this.
 - [Fix the script, run a full backup now](../trusted)
 - [Report it to your manager immediately](../trusted)
 - [Fix it but don't tell anyone](./secret)
+
+*3 choices. There is no going back.*

@@ -10,3 +10,5 @@ You created a culture of blame. It will eat this team from the inside.
 
 - [Realize the mistake and address it](../../harden)
 - [The junior made the mistake — that's facts](./culture)
+
+*2 choices. There is no going back.*

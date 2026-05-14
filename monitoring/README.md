@@ -11,3 +11,5 @@ First night with real monitoring: you catch a disk issue before it becomes an ou
 ---
 
 - [Ship it — we can see problems before they happen](https://github.com/shift/right)
+
+*1 choices. There is no going back.*

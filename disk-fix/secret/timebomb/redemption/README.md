@@ -11,3 +11,5 @@ Your manager: "Trust is a bank account. You just made a big withdrawal."
 ---
 
 - [I'll earn it back. Starting now.](../../../../harden)
+
+*1 choices. There is no going back.*

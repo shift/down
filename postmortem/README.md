@@ -12,3 +12,5 @@ The room wants to blame the junior.
 
 - [Focus on system failures, not the person](../harden)
 - [Let the team assign responsibility](./blame)
+
+*2 choices. There is no going back.*

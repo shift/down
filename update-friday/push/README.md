@@ -8,4 +8,8 @@ You pushed the update to all 200 machines. 197 of them blue-screened. Including 
 
 ---
 
+---
+
+*You've been fired. The startup died. The company lost your data. The pager won.*
+
 [🔄 Try again from the beginning](https://github.com/shift/left)

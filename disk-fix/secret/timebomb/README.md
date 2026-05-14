@@ -10,3 +10,5 @@ The investigation finds the gap. And that you knew.
 
 - [Accept full responsibility](./fired)
 - [Explain everything — the timeline, why you stayed quiet](./redemption)
+
+*2 choices. There is no going back.*

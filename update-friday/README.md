@@ -13,3 +13,5 @@ You could deploy it now. Or wait until Monday when you can monitor the rollout.
 - [Wait until Monday — test in staging first](../harden)
 - [Deploy to a canary group of 10 machines first](../harden)
 - [Push it to everyone now — security can't wait](./push)
+
+*3 choices. There is no going back.*

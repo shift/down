@@ -18,3 +18,5 @@ Your manager: "This is good. Most people hide the ugly parts."
 - [SSL certificate expires in 48 hours](../certificate)
 - [Security audit — who has SSH access?](../access-review)
 - [Critical security update available — deploy Friday?](../update-friday)
+
+*8 choices. There is no going back.*
