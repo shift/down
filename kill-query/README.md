@@ -1,5 +1,7 @@
 # The Recurring Nightmare
 
+> 📍 Late Game · 7 decisions made
+
 You kill the query. Go back to sleep.
 
 Thursday 2am: same intern. Same 14-table join. This time the database runs out of space and goes read-only. Nobody can log in. The site is down.

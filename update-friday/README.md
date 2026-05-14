@@ -1,5 +1,7 @@
 # The Friday Update
 
+> 📍 Late Game · 9 decisions made
+
 It's Friday afternoon. A critical security update is available for your endpoint protection software. The vendor says it's safe. The changelog is minimal. It needs to go to all 200 company laptops.
 
 You could deploy it now. Or wait until Monday when you can monitor the rollout.

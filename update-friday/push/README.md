@@ -1,4 +1,4 @@
-# 💀 GAME OVER: The Update
+# 💀 GAME OVER
 
 You pushed the update to all 200 machines. 197 of them blue-screened. Including the CEO's laptop. Including the deployment server. Including the machine that runs the rollback tool.
 

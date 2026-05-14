@@ -1,5 +1,7 @@
 # The Amber Light
 
+> 📍 Late Game · 9 decisions made
+
 The RAID array is amber. Two drives failed. One more failure kills the array. Replacement drives: 2 weeks on backorder.
 
 No replicas. No failover. Only hope and a RAID 5 running in degraded mode.

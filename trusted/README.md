@@ -1,5 +1,7 @@
 # The Incident Report
 
+> 📍 Late Game · 8 decisions made
+
 You write the incident report. Clear, honest, blameless. You document what happened and what you'd do differently.
 
 Your manager: "This is good. Most people hide the ugly parts."

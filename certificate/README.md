@@ -1,5 +1,7 @@
 # The Expiring Certificate
 
+> 📍 Late Game · 9 decisions made
+
 SSL certificate expires in 48 hours. It's Saturday. The renewal requires a manual CSR, an email to a vendor, and a phone call to "Greg" who works banker's hours.
 
 If it expires, every user sees "This site is not secure." Checkout breaks. Revenue stops.

@@ -1,4 +1,4 @@
-# 🤫 GAME OVER: The Silent Failure
+# 💀 GAME OVER
 
 They didn't fire you for the bug. They fired you for the silence.
 

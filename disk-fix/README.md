@@ -1,5 +1,7 @@
 # The Deeper Problem
 
+> 📍 Late Game · 7 decisions made
+
 You fix the disk. Kill the query. Optimize the indexes. Professional, boring, effective.
 
 But at 4am you notice something worse. The backup script has a typo — `bckup` instead of `backup`. It's been silently failing since January. Last successful backup: 8 months ago.

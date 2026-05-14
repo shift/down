@@ -1,4 +1,4 @@
-# ☠️ GAME OVER: The Culture Rot
+# 💀 GAME OVER
 
 The blame culture spread. Engineers stopped taking risks. PRs sat unreviewed for days. Three engineers left in one month.
 

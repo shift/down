@@ -1,5 +1,7 @@
 # On-Call Week
 
+> 📍 Late Game · 6 decisions made
+
 Your pager goes off at 3am. The primary database is at 98% disk space. Someone ran a query that joined 14 tables. The intern's username is in the log.
 
 Also: the monitoring system is out of disk space too. It can't alert about itself.

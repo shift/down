@@ -1,4 +1,4 @@
-# 💾 GAME OVER: Click. Click. Click.
+# 💀 GAME OVER
 
 The third drive died at 4am. 8 months of data gone.
 

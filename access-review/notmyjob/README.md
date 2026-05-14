@@ -1,4 +1,4 @@
-# 🚫 GAME OVER: Not My Job
+# 💀 GAME OVER
 
 While IT and engineering argued about whose job it was, a terminated employee's SSH key was used to access production.
 

@@ -1,4 +1,4 @@
-# 🤯 GAME OVER: The 3am Rewrite
+# 💀 GAME OVER
 
 You started rewriting monitoring at 3am. In production. Without tests.
 

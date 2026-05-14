@@ -1,5 +1,7 @@
 # The Infrastructure Sprint
 
+> 📍 Late Game · 9 decisions made
+
 You spend a week in the basement. Real backups. Real monitoring. Runbooks for every alert.
 
 You're crimping ethernet when your phone buzzes. An email from the CEO:

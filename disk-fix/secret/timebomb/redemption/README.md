@@ -1,5 +1,7 @@
 # The Confession
 
+> 📍 Late Game · 10 decisions made
+
 You lay it all out. The 3am discovery. The backup gap. The fix. The silence.
 
 The senior engineer: "You fixed it. That's more than most people would do. The mistake wasn't the backup. It was not asking for help."

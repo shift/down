@@ -1,5 +1,7 @@
 # The Secret Keeper
 
+> 📍 Late Game · 8 decisions made
+
 You fix the backup. Run a full backup. Everything is safe. Nobody needs to know.
 
 But secrets don't stay secret. Logs exist. Someone will audit the backup history. Someone will notice the 8-month gap.

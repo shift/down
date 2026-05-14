@@ -1,4 +1,4 @@
-# 🚪 GAME OVER: The Exit
+# 💀 GAME OVER
 
 You quit during the acquisition. Your equity was about to vest. The acquiring company was about to double your salary.
 

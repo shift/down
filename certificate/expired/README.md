@@ -1,4 +1,4 @@
-# 🔒 GAME OVER: The Expired Certificate
+# 💀 GAME OVER
 
 The certificate expired Monday at midnight. Security warnings for 6 hours. Revenue loss: $180,000.
 

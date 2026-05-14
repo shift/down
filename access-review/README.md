@@ -1,5 +1,7 @@
 # The Access Review
 
+> 📍 Late Game · 9 decisions made
+
 Security audit. "Who has SSH access to production?"
 
 Everyone. Including 12 people who left the company. Including 3 who were fired. Including one who was fired for cause and still has their SSH key.
