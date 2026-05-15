@@ -1,6 +1,6 @@
 # The Expiring Certificate
 
-> 📍 Late Game · 9 decisions made
+> 📍 Late Game · 10 decisions made
 
 SSL certificate expires in 48 hours. It's Saturday. The renewal requires a manual CSR, an email to a vendor, and a phone call to "Greg" who works banker's hours.
 
@@ -10,9 +10,9 @@ If it expires, every user sees "This site is not secure." Checkout breaks. Reven
 
 ---
 
-- [Call Greg. Now.](../harden)
-- [Switch to Let's Encrypt — automated renewals](../harden)
-- [It renews Monday — it'll be fine](./expired)
+- [Call Greg. Now.](../harden/README.md)
+- [Switch to Let's Encrypt — automated renewals](../harden/README.md)
+- [It renews Monday — it'll be fine](./expired/README.md)
 
 **3 choices — there is no going back.**
 

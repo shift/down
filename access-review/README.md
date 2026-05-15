@@ -1,6 +1,6 @@
 # The Access Review
 
-> 📍 Late Game · 9 decisions made
+> 📍 Late Game · 10 decisions made
 
 Security audit. "Who has SSH access to production?"
 
@@ -10,9 +10,9 @@ Everyone. Including 12 people who left the company. Including 3 who were fired. 
 
 ---
 
-- [Revoke all access, re-issue to current team only](../harden)
-- [Clean it up quietly before the report is filed](../harden)
-- [That's an IT problem](./notmyjob)
+- [Revoke all access, re-issue to current team only](../harden/README.md)
+- [Clean it up quietly before the report is filed](../harden/README.md)
+- [That's an IT problem](./notmyjob/README.md)
 
 **3 choices — there is no going back.**
 

@@ -1,6 +1,6 @@
 # The Acquisition
 
-> 📍 Late Game · 10 decisions made
+> 📍 Late Game · 11 decisions made
 
 The acquiring company audits your infrastructure. Their CTO: "Your ops setup is the cleanest we've seen in a target. We're keeping the team. All of you."
 
@@ -8,7 +8,7 @@ The acquiring company audits your infrastructure. Their CTO: "Your ops setup is 
 
 ---
 
-- [Deploy under new management](https://github.com/shift/right)
+- [Deploy under new management](https://github.com/shift/right/blob/main/README.md)
 
 **1 choice — there is no going back.**
 

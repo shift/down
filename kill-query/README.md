@@ -1,6 +1,6 @@
 # The Recurring Nightmare
 
-> 📍 Late Game · 7 decisions made
+> 📍 Late Game · 8 decisions made · ⚠️ Warning
 
 You kill the query. Go back to sleep.
 
@@ -10,9 +10,9 @@ Thursday 2am: same intern. Same 14-table join. This time the database runs out o
 
 ---
 
-- [Fix it properly this time](../trusted)
-- [Disable the intern's database access](../trusted)
-- [Wake up the senior engineer](./senior)
+- [Fix it properly this time](../trusted/README.md)
+- [Disable the intern's database access](../trusted/README.md)
+- [Wake up the senior engineer](./senior/README.md)
 
 **3 choices — there is no going back.**
 

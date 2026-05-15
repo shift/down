@@ -1,6 +1,6 @@
 # The Amber Light
 
-> 📍 Late Game · 9 decisions made
+> 📍 Late Game · 10 decisions made
 
 The RAID array is amber. Two drives failed. One more failure kills the array. Replacement drives: 2 weeks on backorder.
 
@@ -10,9 +10,9 @@ No replicas. No failover. Only hope and a RAID 5 running in degraded mode.
 
 ---
 
-- [Set up a replica immediately](../harden)
-- [Order expedited drives and hope](./hope)
-- [Migrate to cloud database — finally](https://github.com/shift/up)
+- [Set up a replica immediately](../harden/README.md)
+- [Order expedited drives and hope](./hope/README.md)
+- [Migrate to cloud database — finally](https://github.com/shift/up/blob/main/README.md)
 
 **3 choices — there is no going back.**
 

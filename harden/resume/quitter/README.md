@@ -10,4 +10,4 @@ You quit during the acquisition. Your equity was about to vest. The acquiring co
 
 *The culture rot set in. You've been fired. The startup died. The company lost your data. The pager won.*
 
-[🔄 Try again from the beginning](https://github.com/shift/left)
+[🔄 Try again from the beginning](https://github.com/shift/left/blob/main/README.md)

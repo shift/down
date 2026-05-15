@@ -1,6 +1,6 @@
 # The Deeper Problem
 
-> 📍 Late Game · 7 decisions made
+> 📍 Late Game · 8 decisions made
 
 You fix the disk. Kill the query. Optimize the indexes. Professional, boring, effective.
 
@@ -12,9 +12,9 @@ You are the only person who knows this.
 
 ---
 
-- [Fix the script, run a full backup now](../trusted)
-- [Report it to your manager immediately](../trusted)
-- [Fix it but don't tell anyone](./secret)
+- [Fix the script, run a full backup now](../trusted/README.md)
+- [Report it to your manager immediately](../trusted/README.md)
+- [Fix it but don't tell anyone](./secret/README.md)
 
 **3 choices — there is no going back.**
 

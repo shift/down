@@ -1,6 +1,6 @@
 # The Secret Keeper
 
-> 📍 Late Game · 8 decisions made
+> 📍 Late Game · 9 decisions made · ⚠️ Warning
 
 You fix the backup. Run a full backup. Everything is safe. Nobody needs to know.
 
@@ -12,8 +12,8 @@ But secrets don't stay secret. Logs exist. Someone will audit the backup history
 
 ---
 
-- [Tell your manager before anyone finds out](../../trusted)
-- [It's fixed now. Move on.](./timebomb)
+- [Tell your manager before anyone finds out](../../trusted/README.md)
+- [It's fixed now. Move on.](./timebomb/README.md)
 
 **2 choices — there is no going back.**
 

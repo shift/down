@@ -10,4 +10,4 @@ The blame culture spread. Engineers stopped taking risks. PRs sat unreviewed for
 
 *The culture rot set in. You've been fired. The startup died. The company lost your data. The pager won.*
 
-[🔄 Try again from the beginning](https://github.com/shift/left)
+[🔄 Try again from the beginning](https://github.com/shift/left/blob/main/README.md)

@@ -10,4 +10,4 @@ The third drive died at 4am. 8 months of data gone.
 
 *Click. Click. Click. The array failed. You've been fired. The startup died. The company lost your data. The pager won.*
 
-[🔄 Try again from the beginning](https://github.com/shift/left)
+[🔄 Try again from the beginning](https://github.com/shift/left/blob/main/README.md)

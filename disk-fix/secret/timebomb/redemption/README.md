@@ -1,6 +1,6 @@
 # The Confession
 
-> 📍 Late Game · 10 decisions made
+> 📍 Late Game · 11 decisions made · 🔴 Danger
 
 You lay it all out. The 3am discovery. The backup gap. The fix. The silence.
 
@@ -10,7 +10,7 @@ Your manager: "Trust is a bank account. You just made a big withdrawal."
 
 ---
 
-- [I'll earn it back. Starting now.](../../../../harden)
+- [I'll earn it back. Starting now.](../../../../harden/README.md)
 
 **1 choice — there is no going back.**
 

@@ -1,6 +1,6 @@
 # The Watchful Eye
 
-> 📍 Late Game · 9 decisions made
+> 📍 Late Game · 10 decisions made
 
 You configure real monitoring. Dashboards. Alerts. Fair on-call rotations. The shell script from 2019 is retired with honors.
 
@@ -10,7 +10,7 @@ First night with real monitoring: you catch a disk issue before it becomes an ou
 
 ---
 
-- [Ship it — we can see problems before they happen](https://github.com/shift/right)
+- [Ship it — we can see problems before they happen](https://github.com/shift/right/blob/main/README.md)
 
 **1 choice — there is no going back.**
 

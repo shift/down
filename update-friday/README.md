@@ -1,6 +1,6 @@
 # The Friday Update
 
-> 📍 Late Game · 9 decisions made
+> 📍 Late Game · 10 decisions made
 
 It's Friday afternoon. A critical security update is available for your endpoint protection software. The vendor says it's safe. The changelog is minimal. It needs to go to all 200 company laptops.
 
@@ -10,9 +10,9 @@ You could deploy it now. Or wait until Monday when you can monitor the rollout.
 
 ---
 
-- [Wait until Monday — test in staging first](../harden)
-- [Deploy to a canary group of 10 machines first](../harden)
-- [Push it to everyone now — security can't wait](./push)
+- [Wait until Monday — test in staging first](../harden/README.md)
+- [Deploy to a canary group of 10 machines first](../harden/README.md)
+- [Push it to everyone now — security can't wait](./push/README.md)
 
 **3 choices — there is no going back.**
 

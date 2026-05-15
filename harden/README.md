@@ -1,6 +1,6 @@
 # The Infrastructure Sprint
 
-> 📍 Late Game · 9 decisions made
+> 📍 Late Game · 10 decisions made
 
 You spend a week in the basement. Real backups. Real monitoring. Runbooks for every alert.
 
@@ -14,9 +14,9 @@ Slack is on fire.
 
 ---
 
-- [Your work made this possible — celebrate](./acquired)
-- [Acquisitions mean layoffs — stay cautious](./acquired)
-- [Update your resume immediately](./resume)
+- [Your work made this possible — celebrate](./acquired/README.md)
+- [Acquisitions mean layoffs — stay cautious](./acquired/README.md)
+- [Update your resume immediately](./resume/README.md)
 
 **3 choices — there is no going back.**
 

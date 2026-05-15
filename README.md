@@ -1,6 +1,8 @@
 # On-Call Week
 
-> 📍 Late Game · 6 decisions made
+> 📍 Late Game · 7 decisions made
+
+You take the stairs down. The basement. Where the servers live. Where the on-call engineers stare at dashboards at 3am.
 
 Your pager goes off at 3am. The primary database is at 98% disk space. Someone ran a query that joined 14 tables. The intern's username is in the log.
 
@@ -12,9 +14,9 @@ Also: the monitoring system is out of disk space too. It can't alert about itsel
 
 ---
 
-- [Add disk space and optimize the query](./disk-fix)
-- [Kill the query and go back to sleep](./kill-query)
-- [Rewrite the monitoring system at 3am](./rewrite-monitor)
+- [Add disk space and optimize the query](./disk-fix/README.md)
+- [Kill the query and go back to sleep](./kill-query/README.md)
+- [Rewrite the monitoring system at 3am](./rewrite-monitor/README.md)
 
 **3 choices — there is no going back.**
 
